@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/21__thread_1.iml" filepath="$PROJECT_DIR$/21__thread_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_21_1_ex1/android_21_1_ex1.iml" filepath="$PROJECT_DIR$/android_21_1_ex1/android_21_1_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_21_1_ex2/android_21_1_ex2.iml" filepath="$PROJECT_DIR$/android_21_1_ex2/android_21_1_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_21_2_ex1/android_21_2_ex1.iml" filepath="$PROJECT_DIR$/android_21_2_ex1/android_21_2_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_21_2_ex2/android_21_2_ex2.iml" filepath="$PROJECT_DIR$/android_21_2_ex2/android_21_2_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_21_4_ex1/android_21_4_ex1.iml" filepath="$PROJECT_DIR$/android_21_4_ex1/android_21_4_ex1.iml" />
+    </modules>
+  </component>
+</project>
